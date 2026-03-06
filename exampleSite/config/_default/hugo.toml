@@ -8,7 +8,6 @@ timeout = "120s"
 title = "2026 Lisbon"
 
 [params]
-[params]
   description = "Travel Gallery 2026"
   footer = "Traveling"
   copyright = "© 2026 DMK"
