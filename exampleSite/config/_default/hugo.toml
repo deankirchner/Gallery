@@ -8,6 +8,12 @@ timeout = "120s"
 title = "2026 Lisbon"
 
 [params]
+[params]
+  description = "Travel Gallery 2026"
+  footer = "Traveling"
+  copyright = "© 2026 DMK"
+  # If you want to change the 'Nature' or 'All' buttons:
+  mainSections = ["travel"]
   defaultTheme = "dark"
   description = "Photo Gallery"
   title = "My Gallery"
