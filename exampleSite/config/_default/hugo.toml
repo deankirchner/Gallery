@@ -1,15 +1,15 @@
-copyright = "© Your Name"
+copyright = "© DMK"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "2026 Lisbon"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
+  description = "Photo Gallery"
   title = "My Gallery"
   [params.author]
     email = "user@example.com"
