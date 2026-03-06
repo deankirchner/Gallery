@@ -6,6 +6,7 @@ languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
 title = "2026 Lisbon"
+baseURL = "https://gallery.deankirchner.com/"
 
 [params]
   description = "Travel Gallery 2026"
